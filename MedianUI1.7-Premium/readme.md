@@ -1,6 +1,6 @@
-To use modified theme.xml, do following steps:
+## To use modified theme.xml, do following steps:
 1. ##### Open Blogger Layout -->
-2. #### --> Widget: Header Notification -->
+2. ##### --> Widget: Header Notification -->
 ```
 <script>
 	window.onload = function() {
